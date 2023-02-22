@@ -4,4 +4,6 @@ there are paremeters
 choice
 string
 multi-string
-file 
+file
+hello
+ 
