@@ -1,0 +1,11 @@
+Hii This is Naveen
+i completed to learn linux,git,maven.
+now iam in jenkins
+first we have to downlond jenkins plugins from jenkins.io
+there is two commands and we have to copy that 
+paste at the terminal
+install java version -11
+now install git maven jenkins
+start the jenkins
+connect to ec2-server 
+create a new job 
