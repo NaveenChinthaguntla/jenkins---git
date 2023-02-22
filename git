@@ -8,4 +8,8 @@ install java version -11
 now install git maven jenkins
 start the jenkins
 connect to ec2-server 
-create a new job 
+create a new job
+there is cronjob 
+pollscm
+git webhook
+ 
