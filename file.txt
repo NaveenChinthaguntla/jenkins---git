@@ -1,0 +1,7 @@
+Hii this is Naveen
+iam learning jenkins
+there are paremeters 
+choice
+string
+multi-string
+file 
